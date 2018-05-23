@@ -23,3 +23,10 @@ def joke():
 
 
 joke()
+
+
+def shout():
+    print("yelling")
+
+
+shout()
