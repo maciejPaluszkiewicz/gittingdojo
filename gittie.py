@@ -1,13 +1,14 @@
 def introduce():
-    print("Hello, I'm Gittie!")
+    print("Hello, I'm super extra Gittie!")
 
-<<<<<<< HEAD
+
 def add(a, b):
     sum = a + b
     return sum
 
-print(add(1300,37))
-=======
+
+print(add(1300, 37))
+
 
 def joke():
     print("""Telling a joke:
@@ -22,4 +23,3 @@ def joke():
 
 
 joke()
->>>>>>> 3086b67156688c4476e54f7fe809256ba322e623
