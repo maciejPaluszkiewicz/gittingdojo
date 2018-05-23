@@ -30,3 +30,7 @@ def shout():
 
 
 shout()
+def shout():
+    print("AAAAAAAAAAAAaaaaaaaaaaaa!!!!!!!!!!!!!!!!!!!!!111111oneoneeleven")
+
+shout()
